@@ -1,14 +1,8 @@
 #Check
 import os
 import torch
-import skimage
-import requests
-import numpy as np
-import pandas as pd
 from PIL import Image
 import io
-# from io import BytesIO
-import matplotlib.pyplot as plt
 import streamlit as st
 
 from transformers import AutoTokenizer,AutoProcessor

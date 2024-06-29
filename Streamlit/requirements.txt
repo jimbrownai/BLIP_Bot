@@ -1,5 +1,4 @@
 torch
-scikit-image
 requests
 numpy
 pandas
