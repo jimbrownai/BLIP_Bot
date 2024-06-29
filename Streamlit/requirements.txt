@@ -1,1 +1,8 @@
 torch
+skimage
+requests
+numpy
+pandas
+PIL
+matplotlib
+transformers
