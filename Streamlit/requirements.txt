@@ -2,6 +2,5 @@ torch
 requests
 numpy
 pandas
-PIL
 matplotlib
 transformers
